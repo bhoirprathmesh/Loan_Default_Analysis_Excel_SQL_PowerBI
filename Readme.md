@@ -69,7 +69,7 @@ Column_Definitions.csv
 ## 6. Key Insights
 
 ### **📌 Page 1 — Loan Default & Overview**
-![Page 1 Overview](Screenshots/page1.png)
+![Page 1 Overview](Screenshots/Page1.png)
 
 #### **Loan Amount by Purpose**
 - Loan distribution is uniform across Home, Business, Auto, Education, and Other purposes (~6500M each).  
@@ -91,7 +91,7 @@ Column_Definitions.csv
 ---
 
 ### **📌 Page 2 — Applicant Demographics & Financial Profile**
-![Page 2 Overview](Screenshots/page2.png)
+![Page 2 Overview](Screenshots/Page2.png)
 
 #### **Median Loan Amount by Credit Score Category**
 - Loan amounts range narrowly from 127K–128K across all credit score groups.
@@ -113,7 +113,7 @@ Column_Definitions.csv
 ---
 
 ### **📌 Page 3 — Financial Risk Metrics**
-![Page 3 Overview](Screenshots/page3.png)
+![Page 3 Overview](Screenshots/Page3.png)
 
 #### **YOY Loan Amount Change**
 - Growth spikes in **2014** and **2016**.  
